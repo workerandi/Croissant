@@ -1,0 +1,29 @@
+body {
+  background-color: #f5fffa;
+  color: #847b6b;
+  text-align: center;
+}
+h1 {
+  background-color: #f8f4ff;
+  padding: 15px;
+  color: #847b6b;
+}
+p {
+  margin: 50px;
+}
+a {
+  color: #847b6b;
+  padding: 15px 25px;
+  background-color: #f8f4ff;
+  border-radius: 10px;
+  display: inline;
+  margin-inline: 50px;
+  text-transform: none;
+  max-width: max-content;
+}
+img {
+  max-width: 500px;
+  display: block;
+  margin: 50px auto;
+  border-width: 20px;
+}
