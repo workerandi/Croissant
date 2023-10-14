@@ -7,7 +7,7 @@ h1 {
   color: #847b6b;
 }
 p {
-  padding: 50px;
+  padding: 20px;
 }
 
 .container {
@@ -18,11 +18,12 @@ p {
 }
 .links-styling {
   color: #847b6b;
-  padding: 15px 25px;
+  padding: 10px 20px;
   background-color: #f8f4ff;
   border-radius: 10px;
   text-transform: none;
   box-shadow: 1px 1px 10px;
+  font-size: 12px;
 }
 .img {
   display: block;
