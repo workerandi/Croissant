@@ -1,7 +1,5 @@
 body {
-  background-color: #f5fffa;
-  color: #847b6b;
-  text-align: center;
+  background-color: red;
 }
 h1 {
   background-color: #f8f4ff;
@@ -9,20 +7,24 @@ h1 {
   color: #847b6b;
 }
 p {
-  margin: 50px;
+  padding: 50px;
 }
-a {
+
+.container {
+  background-color: #f5fffa;
+  color: #847b6b;
+  text-align: center;
+  max-width: 400px;
+}
+.links-styling {
   color: #847b6b;
   padding: 15px 25px;
   background-color: #f8f4ff;
   border-radius: 10px;
-  display: inline;
-  margin-inline: 50px;
   text-transform: none;
-  max-width: max-content;
+  box-shadow: 1px 1px 10px;
 }
-img {
-  max-width: 500px;
+.img {
   display: block;
   margin: 50px auto;
   border-width: 20px;
